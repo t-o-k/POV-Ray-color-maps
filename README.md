@@ -1,5 +1,5 @@
 # POV-Ray-color-maps
-Color maps for POV-Ray v3.7 from the Plasma, Inferno, Magma and Viridis color maps in Python's matplotlib.
+Color maps for POV-Ray v3.7 from the Plasma, Inferno, Magma and Viridis color maps in Python's Matplotlib.
 
 The include file Color_Maps.inc contains these color maps:
 
@@ -24,6 +24,10 @@ The colors in the color maps are also available in these arrays:
 * Colors_Viridis
 
 Also see the example files in the Example directory.
+
+GitHub pages for the Matplotlib color maps:
+* https://github.com/BIDS/colormap
+* https://bids.github.io/colormap/
 
 ## Images created with the examples:
 
