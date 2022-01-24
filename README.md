@@ -10,6 +10,22 @@ The include file Color_Maps.inc contains these color maps:
 
 Each color map has 256 color entries evenly distributed from 0 to 1.
 
+Magma
+
+![Image with Magma colors](Magma-colors.png)
+
+Inferno
+
+![Image with Inferno colors](Inferno-colors.png)
+
+Plasma
+
+![Image with Plasma colors](Plasma-colors.png)
+
+Viridis
+
+![Image with Viridis colors](Viridis-colors.png)
+
 The color maps can be used like this:
 
 ```
