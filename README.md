@@ -1,5 +1,29 @@
 # POV-Ray-color-maps
-Color maps for POV-Ray
+Color maps for POV-Ray v3.7 from the Plasma, Inferno, Magma and Viridis color maps in Python's matplotlib.
+
+The include file Color_Maps.inc contains these color maps:
+
+* ColorMap_Magma
+* ColorMap_Inferno
+* ColorMap_Plasma
+* ColorMap_Viridis
+
+Each color map has 256 color entries evenly distributed from 0 to 1.
+
+The color maps can be used like this:
+
+```
+color_map { ColorMap_Plasma }
+```
+
+The colors in the color maps are also available in these arrays:
+
+* Colors_Magma
+* Colors_Inferno
+* Colors_Plasma
+* Colors_Viridis
+
+Also see the example files in the Example directory.
 
 ## Images created with the examples:
 
