@@ -12,19 +12,19 @@ Each color map has 256 color entries evenly distributed from 0 to 1.
 
 Magma
 
-![Image with Magma colors](Magma-colors.png)
+![Image with Magma colors](Colors_Magma.png)
 
 Inferno
 
-![Image with Inferno colors](Inferno-colors.png)
+![Image with Inferno colors](Colors_Inferno.png)
 
 Plasma
 
-![Image with Plasma colors](Plasma-colors.png)
+![Image with Plasma colors](Colors_Plasma.png)
 
 Viridis
 
-![Image with Viridis colors](Viridis-colors.png)
+![Image with Viridis colors](Colors_Viridis.png)
 
 The color maps can be used like this:
 
