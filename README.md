@@ -49,20 +49,20 @@ GitHub pages for the Matplotlib color maps:
 
 ### Plasma
 
-[Source code](Examples/Plasma.pov)\
-![Image with Plasma color map](Examples/Plasma.png)
+[Source code](Examples/Plasma_spiral1.pov)\
+![Image with Plasma color map](Examples/Plasma_spiral1.png)
 
 ### Inferno
 
-[Source code](Examples/Inferno.pov)\
-![Image with Inferno color map](Examples/Inferno.png)
+[Source code](Examples/Inferno_sine.pov)\
+![Image with Inferno color map](Examples/Inferno_sine.png)
 
 ### Magma
 
-[Source code](Examples/Magma.pov)\
-![Image with Magma color map](Examples/Magma.png)
+[Source code](Examples/Magma_agate.pov)\
+![Image with Magma color map](Examples/Magma_agate.png)
 
 ### Viridis
 
-[Source code](Examples/Viridis.pov)\
-![Image with Viridis color map](Examples/Viridis.png)
+[Source code](Examples/Viridis_spiral2.pov)\
+![Image with Viridis color map](Examples/Viridis_spiral2.png)
